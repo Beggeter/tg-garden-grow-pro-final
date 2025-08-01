@@ -1,0 +1,1 @@
+// Webhook обработки платежей от Telegram Stars
